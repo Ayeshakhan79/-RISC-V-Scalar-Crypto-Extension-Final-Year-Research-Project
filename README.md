@@ -13,6 +13,15 @@ The project bridges gaps in existing RISC-V cryptographic research by offering a
 5. Hardware timing validation (≈ 3.94 ns execution time)
 6. Software unit testing for encryption/decryption accuracy
 
+🔗  Access the Research Paper
+Due to institutional policies, the conference paper cannot be uploaded here.
+
+You can read the full paper on ResearchGate:
+
+🔗 [https://www.researchgate.net/...](https://www.researchgate.net/publication/395325834_RISC-V_Scalar_Crypto_Extension)
+
+For any academic use, please cite the paper from the ResearchGate page.
+
 🛡️ License
 **All Rights Reserved.**
 
