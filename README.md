@@ -12,3 +12,10 @@ The project bridges gaps in existing RISC-V cryptographic research by offering a
 4. Web-based interface for file encryption/decryption using AES-128
 5. Hardware timing validation (≈ 3.94 ns execution time)
 6. Software unit testing for encryption/decryption accuracy
+
+🛡️ License
+**All Rights Reserved.**
+
+The source code, documentation, and associated files in this repository are provided for academic evaluation and portfolio presentation only.  
+No permission is granted to copy, modify, distribute, or use any part of this project without explicit written consent from the author.
+
